@@ -1,2 +1,2 @@
 # An-lisis-de-precios-
-Esta herramienta permite comparar precios de cotizaciones de distintos modelos de Pricing. Permite filtrar por distintas variables de corte. Y entender los coeficientes aplicados para algunas de las variables de los modelos. 
+Esta herramienta permite comparar precios de cotizaciones de distintos modelos de Pricing. Permite filtrar por distintas variables de corte. Entender los coeficientes aplicados para algunas de las variables de los modelos por cada una de las cotizaciones. En el repositorio se encuentra una base de datos de muestra que tienen valores modificados para no violar la confidencialidad de la información.
